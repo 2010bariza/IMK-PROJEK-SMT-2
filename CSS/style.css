@@ -470,12 +470,148 @@
 }
 
 
+/* ========HOME PERUSAHAAN========= */
+.prsh{
+    position: absolute;
+    width: 1440px;
+    height: 272px;
+    left: 0px;
+    top: 86px;
+    background: #389583;
+}
+.prsh h1{
+    position: absolute;
+    width: 680px;
+    height: 48px;
+    left: 377px;
+    top: 90px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+.btn-prsh{
+    position: absolute;
+    top: 180px;
+    left: 445px;
+    font-weight: bold;
+    background-color: var(--bg-color);
+    width: 160;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--second-color);
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.btn-prsh1{
+    position: absolute;
+    top: 180px;
+    left: 750px;
+    font-weight: bold;
+    background-color: var(--bg-color);
+    width: 160;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: var(--second-color);
+    border-radius: 1rem;
+    cursor: pointer;
+}
 
-
-
-
-
-
-
-
-
+.shape3{
+    background-color: var(--second-color);
+    height: 282px;
+    width: 202px;
+    top: 434px;
+    left: 105px;
+    position: absolute;
+}
+.prsh-img1{
+    position: absolute;
+    height: 338px;
+    width: 289px;
+    top: 378px;
+    left: 124px;
+}
+.prsh-text1 h3{
+    position: absolute;
+    width: 292px;
+    height: 54px;
+    left: 466px;
+    top: 483px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #000;
+}
+.line1{
+    height: 5px;
+    width: 262px;
+    left: 466px;
+    top: 530px;
+    background-color: var(--second-color);
+    position: absolute;
+}
+.prsh-text1 p{
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 466px;
+    top: 566px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000;
+}
+.shape4{
+    background-color: var(--second-color);
+    height: 282px;
+    width: 202px;
+    top: 700px;
+    left: 1050px;
+    position: absolute;
+}
+.prsh-img2{
+    position: absolute;
+    width: 345px;
+    height: 309px;
+    right: 125px;
+    top: 673px;
+}
+.prsh-text2 h3{
+    position: absolute;
+    width: 292px;
+    height: 54px;
+    right: 310px;
+    top: 750px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #000;
+}
+.line2{
+    height: 5px;
+    width: 180px;
+    right: 422px;
+    top: 797px;
+    background-color: var(--second-color);
+    position: absolute;
+}
+.prsh-text2 p{
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    right: 422px;
+    top: 833px;
+    font-size: 18px;
+    text-align: right;
+    line-height: 25px;
+    color: #000;
+}
