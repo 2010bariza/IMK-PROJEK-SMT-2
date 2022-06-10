@@ -615,3 +615,139 @@
     line-height: 25px;
     color: #000;
 }
+
+/* ========CREATE JOB======== */
+
+.crt-tittle{
+    position: absolute;
+    top: 130px;
+    left: 70px;
+}
+.crt-menu{
+    position: absolute;
+    top: 200px;
+    left: 70px;
+    font-size: 18px;
+    font-weight: 600;
+    height: 72px;
+    width: 124px;
+}
+.crt-menu p{
+    margin-bottom: 40px;
+}
+.crt-line{
+    height: 200px;
+    width: 3px;
+    left: 235px;
+    top: 200px;
+    background-color: #c4c4c4;
+    position: absolute;
+}
+.crt-line1{
+    height: 70px;
+    width: 3px;
+    left: 235px;
+    top: 200px;
+    background-color: #389583;
+    position: absolute;
+}
+.crt-line2{
+    height: 70px;
+    width: 3px;
+    left: 235px;
+    top: 275px;
+    background-color: #389583;
+    position: absolute;
+}
+.crt-line3{
+    height: 70px;
+    width: 3px;
+    left: 235px;
+    top: 330px;
+    background-color: #389583;
+    position: absolute;
+}
+.crt-subtittle{
+    position: absolute;
+    font-size: 20px;
+    font-weight: 500;
+    top: 195px;
+    left: 375px;
+}
+.crt-input{
+    font-size: 18px;
+    width: 20px;
+    font-weight: 300;
+    position: absolute;
+    top: 255px;
+    left: 375px;
+}
+.crt-input p{
+    margin-bottom: 55px;
+}
+.crt-input1{
+    position: absolute;
+    top: 225px;
+    left: 500px;
+}
+.crt-input1 p{
+    margin-bottom: 32px;
+}
+.crt-input1 p input{
+    width: 340px;
+    height: 35px;
+    border-color: #389583;
+    border-radius: 0.5rem;
+}
+.input2 input{
+    width: 340px;
+    height: 80px;
+    border-color: #389583;
+    border-radius: 0.5rem;
+}
+.crt-input2{
+    position: absolute;
+    top: 255px;
+    left: 500px;
+}
+.crt-input2 p{
+    margin-bottom: 40px;
+}
+.crt-input2 p input{
+    width: 340px;
+    height: 35px;
+    border-color: #389583;
+    border-radius: 0.5rem;
+}
+.crt-btn{
+    position: absolute;
+    top: 520px;
+    left: 580px;
+    font-weight: bold;
+    background-color: #389583;
+    width: 160px;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.crt-btn2{
+    position: absolute;
+    top: 480px;
+    left: 580px;
+    font-weight: bold;
+    background-color: #389583;
+    width: 160px;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
