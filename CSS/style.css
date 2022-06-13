@@ -751,3 +751,130 @@
     border-radius: 0.5rem;
     cursor: pointer;
 }
+
+/* ===========Forum Diskusi============= */
+.forum-tittle p{
+    position: absolute;
+    top: 125px;
+    left: 200px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.forum-tittle img{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 125px;
+    right: 200px;
+}
+.forum-diskusi1{
+    position: absolute;
+    width: 968px;
+    height: 120px;
+    left: 200px;
+    top: 175px;
+    background: #8DE4AF;
+    border-radius: 10px;
+}
+.forum-diskusi1 img{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 20px;
+    left: 20px;
+}
+.forum-diskusi1 h3{
+    position: absolute;
+    top: 20px;
+    width: 780px;
+    left: 140px;
+}
+.forum-diskusi1 p{
+    position: absolute;
+    top: 60px;
+    left: 140px;
+    font-size: 10px;
+    font-weight: 300;
+    width: 440px;
+
+}
+.forum-diskusi1 i{
+    position: absolute;
+    right: 35px;
+    font-size: 50px;
+    top: 35px;
+}
+.forum-diskusi2{
+    position: absolute;
+    width: 968px;
+    height: 120px;
+    left: 200px;
+    top: 345px;
+    background: #8DE4AF;
+    border-radius: 10px;
+}
+.forum-diskusi2 img{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 20px;
+    left: 20px;
+}
+.forum-diskusi2 h3{
+    position: absolute;
+    top: 20px;
+    left: 140px;
+    width: 780px;
+}
+.forum-diskusi2 p{
+    position: absolute;
+    top: 60px;
+    left: 140px;
+    font-size: 10px;
+    font-weight: 300;
+    width: 440px;
+
+}
+.forum-diskusi2 i{
+    position: absolute;
+    right: 35px;
+    font-size: 50px;
+    top: 35px;
+}
+.forum-diskusi3{
+    position: absolute;
+    width: 968px;
+    height: 120px;
+    left: 200px;
+    top: 515px;
+    background: #8DE4AF;
+    border-radius: 10px;
+}
+.forum-diskusi3 img{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 20px;
+    left: 20px;
+}
+.forum-diskusi3 h3{
+    position: absolute;
+    width: 780px;
+    top: 20px;
+    left: 140px;
+}
+.forum-diskusi3 p{
+    position: absolute;
+    top: 80px;
+    left: 140px;
+    font-size: 10px;
+    font-weight: 300;
+    width: 440px;
+
+}
+.forum-diskusi3 i{
+    position: absolute;
+    right: 35px;
+    font-size: 50px;
+    top: 35px;
+}
